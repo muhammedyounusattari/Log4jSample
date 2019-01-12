@@ -1,0 +1,8 @@
+2019-01-12 17:28:43 DEBUG App:13 - this is from debug
+2019-01-12 17:28:43 INFO  App:14 - this is from info
+2019-01-12 17:28:43 ERROR App:15 - this is from error
+2019-01-12 17:28:43 WARN  App:16 - this is from warn
+this is from debug
+this is from info
+this is from error
+this is from warn
