@@ -4,4 +4,14 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>WebServlet</servlet-name>
+  	<display-name>WebServlet</display-name>
+  	<description></description>
+  	<servlet-class>younus.attari.WebServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>WebServlet</servlet-name>
+  	<url-pattern>/WebServlet</url-pattern>
+  </servlet-mapping>
 </web-app>

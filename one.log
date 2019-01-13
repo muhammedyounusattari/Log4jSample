@@ -6,3 +6,52 @@ this is from debug
 this is from info
 this is from error
 this is from warn
+this is from debug
+this is from info
+this is from error
+this is from warn
+this is from debug
+this is from info
+this is from error
+this is from warn
+
+
+
+this is from debug
+this is from info
+this is from error
+this is from warn
+this is from debug
+this is from info
+this is from error
+this is from warn
+this is from debug
+this is from info
+this is from error
+this is from warn
+this is from debug
+this is from info
+this is from error
+this is from warn
+
+
+2019-01-13 23:44:36 DEBUG App:13 - this is from debug
+2019-01-13 23:44:36 INFO  App:14 - this is from info
+2019-01-13 23:44:36 ERROR App:15 - this is from error
+2019-01-13 23:44:36 WARN  App:16 - this is from warn
+2019-01-13 23:45:55 DEBUG App:13 - this is from debug
+2019-01-13 23:45:55 INFO  App:14 - this is from info
+2019-01-13 23:45:55 ERROR App:15 - this is from error
+2019-01-13 23:45:55 WARN  App:16 - this is from warn
+2019-01-13 23:49:05 DEBUG App:13 - this is from debug
+2019-01-13 23:49:06 INFO  App:14 - this is from info
+2019-01-13 23:49:06 ERROR App:15 - this is from error
+2019-01-13 23:49:06 WARN  App:16 - this is from warn
+2019-01-13 23:51:23 DEBUG App:13 - this is from debug
+2019-01-13 23:51:23 INFO  App:14 - this is from info
+2019-01-13 23:51:23 ERROR App:15 - this is from error
+2019-01-13 23:51:23 WARN  App:16 - this is from warn
+2019-01-13 23:54:47 DEBUG App:13 - this is from debug
+2019-01-13 23:54:47 INFO  App:14 - this is from info
+2019-01-13 23:54:47 ERROR App:15 - this is from error
+2019-01-13 23:54:47 WARN  App:16 - this is from warn
